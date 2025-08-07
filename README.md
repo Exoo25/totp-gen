@@ -21,7 +21,7 @@ This tool lets you generate OTPs using your secret key — perfect for testing 2
 
 ---
 
--## 📦 Installation
+## 📦 Installation
 -
 ```bash
 git clone https://github.com/Exoo25/totp-gen/

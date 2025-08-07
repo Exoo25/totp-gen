@@ -17,12 +17,12 @@
 
 ## 📸 Screenshot
 
-<img width="377" height="277" alt="image" src="https://github.com/user-attachments/assets/f76687c1-3844-4da7-953c-2ea15d0558d7" />
+>- <img width="377" height="277" alt="image" src="https://github.com/user-attachments/assets/f76687c1-3844-4da7-953c-2ea15d0558d7" />
 
 ---
 
-## 📦 Installation
-
+>-## 📦 Installation
+>-
 ```bash
 git clone https://github.com/Exoo25/totp-gen/
 cd totp-gen
